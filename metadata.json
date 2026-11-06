@@ -1,0 +1,6 @@
+{
+  "name": "AI Trading Intelligence Pro",
+  "description": "Professional AI-powered trading analysis and signal terminal for Forex, Gold, Crypto, Binary, and OTC markets with SMC/ICT technical intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
